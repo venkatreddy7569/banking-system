@@ -1,8 +1,15 @@
-# 💳 Java Banking System
+# 💻 Banking System with GUI & PDF Export
 
-A file-based Java Banking System with a beautiful Swing GUI and PDF export functionality — no SQL or database needed!
+Welcome to the **Banking System**, a full-featured desktop application built entirely with **core Java** — no SQL, no frameworks, just pure OOP, file handling, and a stylish **Swing-based GUI**!
 
----
+This project simulates real banking operations like account creation, authentication, deposits, withdrawals, and transfers, while storing all data securely using **Java object serialization**. You can even **export your transaction history as a PDF** using the integrated iText library. 🧾
+
+Perfect for:
+- 🧑‍🎓 **Final year BTech students** as a full-stack Java project
+- 💼 Learning **file-based data handling**
+- 🖥️ Practicing **GUI design in Swing**
+- 📚 Understanding **Object-Oriented Programming (OOP)** in Java
+
 
 ## ✨ Features
 
