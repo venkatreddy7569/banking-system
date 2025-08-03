@@ -1,0 +1,12 @@
+Deposited ₹100.0
+Withdrew ₹100.0
+Deposited ₹100.0
+Transferred ₹100.0 to 7569
+Received ₹100.0 from 7569
+Deposited ₹250.0
+Received ₹250.0 from 2005
+Deposited ₹1000.0
+Withdrew ₹100.0
+Deposited ₹100.0
+Transferred ₹100.0 to 7569
+Received ₹100.0 from 7569
